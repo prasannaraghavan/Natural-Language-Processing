@@ -1,6 +1,6 @@
 # Natural Language Processing Course
 
-![NLP Course](![image](https://github.com/prasannaraghavan/Natural-Language-Processing/assets/91223528/2637122a-467e-40e8-862d-b46fa94a104d))
+![NLP Course]([![image](https://github.com/prasannaraghavan/Natural-Language-Processing/assets/91223528/2637122a-467e-40e8-862d-b46fa94a104d)](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e2/299c6a9c8b40c4be6cf83454e38a49/Specialization-Logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25))
 
 This repository contains my assignments, projects, and notes for the Natural Language Processing (NLP) course offered by deeplearning.ai on Coursera. This course is part of the specialization on Natural Language Processing provided by deeplearning.ai.
 
