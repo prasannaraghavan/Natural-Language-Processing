@@ -1,6 +1,6 @@
 # Natural Language Processing Course
 
-![NLP Course]([https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png](https://user-images.githubusercontent.com/36892795/107777452-22433b80-6d43-11eb-9150-34ad64b3bb0c.png))
+![NLP Course](https://user-images.githubusercontent.com/36892795/107777452-22433b80-6d43-11eb-9150-34ad64b3bb0c.png)
 
 This repository contains my assignments, projects, and notes for the Natural Language Processing (NLP) course offered by deeplearning.ai on Coursera. This course is part of the specialization on Natural Language Processing provided by deeplearning.ai.
 
