@@ -64,10 +64,6 @@ Here are some additional resources that you may find helpful:
 - [Coursera](https://www.coursera.org/learn/natural-language-processing)
 - [deeplearning.ai](https://www.deeplearning.ai/)
 
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Acknowledgments
 
 I would like to express my gratitude to the deeplearning.ai team for providing this comprehensive and valuable course on Natural Language Processing. Their dedication to delivering high-quality educational content is greatly appreciated.
