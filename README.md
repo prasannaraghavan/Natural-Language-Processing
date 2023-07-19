@@ -29,11 +29,10 @@ Each module includes video lectures, coding assignments, quizzes, and a final pr
 
 This repository is organized as follows:
 
-- `module1`: Contains the assignments, code, and notes for Module 1.
-- `module2`: Contains the assignments, code, and notes for Module 2.
-- `module3`: Contains the assignments, code, and notes for Module 3.
-- ...
-- `module8`: Contains the assignments, code, and notes for Module 8.
+- `Week 1`: Contains the assignments, code, and notes for Week 1.
+- `Week 2`: Contains the assignments, code, and notes for Week 2.
+- `Week 3`: Contains the assignments, code, and notes for Week 3.
+- `Week 4`: Contains the assignments, code, and notes for Week 4.
 
 Each module folder consists of subfolders for assignments, code implementations, and any additional resources or notes relevant to that module.
 
